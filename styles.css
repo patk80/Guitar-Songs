@@ -3,3 +3,8 @@
     margin: 0;
     padding: 0;
 }
+
+table img {
+    height: 100px;
+    width: 100px;
+}
