@@ -13,6 +13,12 @@ table img {
     width: 100px;
 }
 
+
+td {
+    padding: 5px;
+    text-align: center;
+}
+
 .grid-container {
     display: grid;
     grid-template-columns: 1fr;
