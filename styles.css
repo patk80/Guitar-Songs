@@ -12,3 +12,26 @@ table img {
     height: 100px;
     width: 100px;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    grid-gap: 30px;
+}
+
+/* .top {
+    background-color: red;
+}
+
+.what-to-practice-section {
+    background-color: orange;
+}
+
+.can-play-section {
+    background-color: yellow;
+}
+
+.working-on-section {
+    background-color: green;
+} */
